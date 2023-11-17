@@ -95,15 +95,3 @@ body[data-theme='light_theme'] {
     text-decoration: none;
   }
 
-p {
-    position: fixed;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    text-align: center;
-    margin: 0;
-    padding: 10px;
-    background-color: #ff7f57;
-    color: white;
-    width: 100%;
-    }
